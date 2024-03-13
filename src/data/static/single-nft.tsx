@@ -11,19 +11,19 @@ import Avatar6 from '@/assets/images/avatar/6.png';
 
 export const nftData = {
   isAuction: true,
-  name: 'Flow Punk Gallery #303',
+  name: 'Human',
   image: SingleNft,
-  minted_date: 'Jan 26, 2022',
-  minted_slug: 'https://etherscan.io/',
+  /* minted_date: 'Jan 26, 2022', */
+  minted_slug: 'https://explorer-sphinx.shardeum.org/',
   price: 0.2,
   description:
-    'Fisherian Runaways, Child of #48 Bat Veil & #42 Screw Nose. This mushroom is the result of the cross-breeding of two original one of a kind generative mushrooms donated back to the Fisherian Runaways project their generous owner.',
-  creator: { id: 1, logo: Avatar1, name: '@Cameronwilliamson', slug: '#' },
+    'Immersive 3d Interaction of Human Anatomy',
+  creator: { id: 1, logo: Avatar1, name: '@Blue', slug: '#' },
   collection: { id: 1, logo: Avatar3, name: 'Criptic', slug: '#' },
   owner: { id: 1, logo: Avatar4, name: '@williamson', slug: '#' },
   block_chains: [
-    { id: 1, logo: Bitcoin, name: 'Ethereum', slug: '#' },
-    { id: 2, logo: Ethereum, name: 'Bitcoin', slug: '#' },
+    /* { id: 1, logo: Bitcoin, name: 'Ethereum', slug: '#' },
+    { id: 2, logo: Ethereum, name: 'Bitcoin', slug: '#' }, */
   ],
   bids: [
     {

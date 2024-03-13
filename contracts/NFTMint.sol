@@ -83,7 +83,7 @@ contract NFTMarketplace is ERC721URIStorage {
         return newTokenId;
     }
 
-    function createListedToken(uint256 tokenId, uint256 price) private {
+    function createListedToken(uint256 tokenId, uint256 price) payable public {
         //Make sure the sender sent enough ETH to pay for listing
         require(msg.value == listPrice, "Hopefully sending the correct price");
         //Just sanity check

@@ -112,7 +112,7 @@ export default function MinimalNFTDetails({
             <div className="mt-5 flex flex-col pb-5 xl:mt-9">
               <ParamTab
                 tabMenu={[
-                  {
+                  /* {
                     title: 'Details',
                     path: 'details',
                   },
@@ -123,7 +123,7 @@ export default function MinimalNFTDetails({
                   {
                     title: 'History',
                     path: 'history',
-                  },
+                  }, */
                 ]}
               >
                 <TabPanel className="focus:outline-none">

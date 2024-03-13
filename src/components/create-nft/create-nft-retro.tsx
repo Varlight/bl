@@ -52,7 +52,7 @@ export default function CreateNFTRetro() {
             <h2 className="text-lg font-medium uppercase tracking-wider text-gray-900 dark:text-white sm:text-2xl">
               Create New Item
             </h2>
-            <Preview />
+            {/* <Preview /> */}
           </div>
           <div className="mb-8 mt-6 grid grid-cols-1 gap-12 sm:mt-10">
             <div className="relative">

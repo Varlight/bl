@@ -1,9 +1,7 @@
-const { ethers } = require("hardhat");
+const { ethers } = require("hardhat"); // Keep this
 const hre = require("hardhat");
 const fs = require("fs");
-const { ethers } = require("hardhat");
 const { utils } = ethers; // Import utils
-
 
 async function main() {
   const [deployer] = await ethers.getSigners();

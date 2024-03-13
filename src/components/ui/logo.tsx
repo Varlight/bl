@@ -29,13 +29,14 @@ export default function Logo() {
       className="flex w-28 outline-none sm:w-32 4xl:w-36"
     >
       <span className="relative flex overflow-hidden">
-        {isMounted && isDarkMode && (
-          <Image src={darkLogo} alt="Criptic" height={24} priority />
-        )}
-        {isMounted && !isDarkMode && (
-          <Image src={lightLogo} alt="Criptic" height={24} priority />
-        )}
-      </span>
-    </AnchorLink>
+        
+    {isMounted && (
+        <span className={isDarkMode ? 'text-white' : 'text-black'}>
+            <h1>Blue</h1>
+        </span>
+    )} 
+</span> 
+</AnchorLink>
+
   );
 }

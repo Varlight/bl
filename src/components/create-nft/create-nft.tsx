@@ -50,7 +50,7 @@ export default function CreateNFT() {
     <>
       <NextSeo
         title="Create NFT"
-        description="Criptic - React Next Web3 NFT Crypto Dashboard Template"
+        description="Blue Experience Marketplace"
       />
       <div className="mx-auto w-full sm:pt-0 lg:px-8 xl:px-10 2xl:px-0">
         <div className="mb-6 grid grid-cols-3 gap-12 sm:mb-10">
@@ -58,7 +58,7 @@ export default function CreateNFT() {
             <h2 className="text-lg font-medium uppercase tracking-wider text-gray-900 dark:text-white  sm:text-2xl">
               Create New Item
             </h2>
-            <Preview />
+            {/* <Preview /> */}
           </div>
         </div>
         <div className="mb-8 grid grid-cols-1 gap-12 lg:grid-cols-3">

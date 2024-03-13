@@ -45,11 +45,11 @@ export const menuItems = [
     icon: <DiskIcon />,
     href: routes.nftDetails,
   },
-  {
+  /* {
     name: 'Profile',
     icon: <ProfileIcon />,
     href: routes.profile,
-  },
+  }, */
   /* {
     name: 'Vote',
     icon: <VoteIcon />,
