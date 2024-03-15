@@ -18,6 +18,7 @@ Blue is an innovative Metaverse built on the sharedeum chain, offering a unique 
 ---
 
 ## Virtual Reality Deployment
+Downlaod the unity apks from here https://www.dropbox.com/scl/fo/oih6pm9spom9kiouxh6jj/h?rlkey=fj3o27qnt35mu13dzh7si46a8&dl=0
 
 ### Unity Build Settings
 
