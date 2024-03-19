@@ -1,4 +1,4 @@
-# Blue: A Metaverse on sharedeum Chain
+# Blue: A Metaverse on shardeum Chain
 
 Blue is an innovative Metaverse built on the sharedeum chain, offering a unique Virtual Reality Experience to each NFT holder. This immersive experience is crafted through the integration of Artificial Intelligence NPC Characters, featuring Speech-to-Speech Recognition tailored for the specific environment.
 
